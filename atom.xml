@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-03T09:03:24.679Z</updated>
+  <updated>2020-10-15T10:57:25.006Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,11 +21,21 @@
     <link href="http://example.com/2020/10/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2020/10/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2020-10-03T09:03:24.000Z</published>
-    <updated>2020-10-03T09:03:24.679Z</updated>
+    <updated>2020-10-15T10:57:25.006Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>进程间通信在用户空间是不可能的，通过Linux内核通信</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;进程间通信在用户空间是不可能的，通过Linux内核通信&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
     
     
     
     
+    <category term="进程" scheme="http://example.com/tags/%E8%BF%9B%E7%A8%8B/"/>
     
   </entry>
   
